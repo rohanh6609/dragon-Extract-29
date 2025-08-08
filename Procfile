@@ -1,1 +1,1 @@
-worker: python main.py
+worker: rm -f *.session && python main.py
